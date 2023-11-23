@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.6sCUUX6NUQk5wchfh6mLrQHaHa?w=202&h=201&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragpatil11&label=Profile%20views&color=0e75b6&style=flat" alt="anuragpatil11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragpatil11" alt="anuragpatil11" /></a> </p>
 
