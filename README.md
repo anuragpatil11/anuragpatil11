@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.xUY3EV1mtetcXahqBESOlgHaF3?w=201&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7")
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.xUY3EV1mtetcXahqBESOlgHaF3?w=201&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragpatil11&label=Profile%20views&color=0e75b6&style=flat" alt="anuragpatil11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anurag patil" target="blank"><img src="https://img.shields.io/twitter/follow/anurag patil?logo=twitter&style=for-the-badge" alt="anurag patil" /></a> </p>
