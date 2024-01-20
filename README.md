@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C++ | Java | Python | HTML | CSS**
+- 💬 Ask me about **C++ | Java | HTML | CSS**
 
 - 📫 How to reach me **anuragpatil.11831183@gmail.com**
 
