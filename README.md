@@ -64,8 +64,7 @@
 
 <h1 align="center">
           
-![](https://github-contributor-stats.vercel.app/api?username=user0320ib&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=user0320ib_&theme=dark&border=border" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=user0320ib&theme=dark&border=border" />
 
 </h1>
