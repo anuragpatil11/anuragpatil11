@@ -46,21 +46,31 @@
 </div>
 <br/>  
 
+<div style="text-align: center;">
+    <h2>Most Used Languages</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragpatil11&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+    <h2>GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuragpatil11&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+    <h2>GitHub Streak</h2>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpatil11&" alt="GitHub Streak" />
+</div>
+
+## Badges
+<div style="display: flex; gap: 20px; align-items: center;">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=anuragP11&theme=dark&border=border" />
+     <img src="https://github.com/anuragpatil11/anuragpatil11/blob/main/assets/AWS-CloudFoundation-BadgeLarge.jpeg?raw=true" width="300" height="300" alt="CloudFoundation Badge" />
+    <img src="https://github.com/anuragpatil11/anuragpatil11/blob/main/assets/AWS-MachineLearning-BadgeLarge.jpeg?raw=true" width="300" height="300" alt="Machine Learning Badge" />
+</div>
+
+    
+    
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragpatil11&show_icons=true&locale=en&layout=compact" alt="anuragpatil11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragpatil11&show_icons=true&locale=en" alt="anuragpatil11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpatil11&" alt="anuragpatil11" /></p>
-
-<h1 align="center">
-          
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=anuragP11&theme=dark&border=border" />
-
-
-
-
-</h1>
